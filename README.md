@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franky</h1>
 <h3 align="center">A hardworking guy that's passionate about progress</h3>
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Authentication Using NextAuth.js**
 
 - 👨‍💻 All of my projects are available at [frankyfolio.com](frankyfolio.com)
 
